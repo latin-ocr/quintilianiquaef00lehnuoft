@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quintilianiquaef00lehnuoft_0037.png"; bbox 0 0 1638 2560; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 227 953 1246 1032">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 227 953 1246 1032">
+     <span class='ocr_line' id='line_1_1' title="bbox 227 953 1246 1032; baseline -0.004 -9"><span class='ocrx_word' id='word_1_1' title='bbox 227 957 318 1023; x_wconf 93' lang='lat' dir='ltr'><strong>M.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 361 956 577 1021; x_wconf 85' lang='lat' dir='ltr'><strong>FABI</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 627 953 1246 1032; x_wconf 82' lang='lat' dir='ltr'><strong>QVINTILIANI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 523 1157 954 1201">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 523 1157 954 1201">
+     <span class='ocr_line' id='line_1_2' title="bbox 523 1157 954 1201; baseline -0.002 -7"><span class='ocrx_word' id='word_1_4' title='bbox 523 1157 650 1201; x_wconf 84' lang='lat' dir='ltr'><strong>QVAE</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 681 1157 742 1193; x_wconf 78' lang='lat' dir='ltr'><strong>FE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 748 1157 954 1193; x_wconf 83' lang='lat' dir='ltr'><strong>RVNTVR</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 85 1327 1396 1388">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 85 1327 1396 1388">
+     <span class='ocr_line' id='line_1_3' title="bbox 85 1327 1396 1388; baseline -0.005 0"><span class='ocrx_word' id='word_1_7' title='bbox 85 1329 782 1388; x_wconf 80' lang='lat' dir='ltr'>DEOLAMATIONES</span> <span class='ocrx_word' id='word_1_8' title='bbox 827 1329 968 1385; x_wconf 92' lang='lat' dir='ltr'><strong>XIX</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1010 1327 1396 1384; x_wconf 74' lang='lat' dir='ltr'><strong>MAIORES.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 136 2466 895 2500">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 136 2466 895 2500">
+     <span class='ocr_line' id='line_1_4' title="bbox 136 2466 895 2500; baseline -0.003 -6"><span class='ocrx_word' id='word_1_10' title='bbox 136 2467 348 2500; x_wconf 67' lang='lat' dir='ltr'><strong>Qmoemum</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 367 2473 638 2494; x_wconf 65' lang='lat' dir='ltr'><strong>nzcmuxuoxus</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 658 2467 696 2493; x_wconf 84' lang='lat' dir='ltr'><strong>ed</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 724 2466 749 2492; x_wconf 87' lang='lat' dir='ltr'>L</span> <span class='ocrx_word' id='word_1_14' title='bbox 758 2474 772 2492; x_wconf 87' lang='lat' dir='ltr'>e</span> <span class='ocrx_word' id='word_1_15' title='bbox 782 2467 801 2492; x_wconf 85' lang='lat' dir='ltr'><strong>h</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 810 2474 829 2492; x_wconf 87' lang='lat' dir='ltr'>n</span> <span class='ocrx_word' id='word_1_17' title='bbox 838 2474 853 2493; x_wconf 78' lang='lat' dir='ltr'>e</span> <span class='ocrx_word' id='word_1_18' title='bbox 862 2468 895 2493; x_wconf 78' lang='lat' dir='ltr'><strong>rt</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

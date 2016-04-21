@@ -1,0 +1,15 @@
+INDEX NOTARVM.
+A. EXOERPTA MONACENSIA.
+
+Μ = codex Monacensis 631
+
+B. EXCERPTA PARISINA.
+
+P = codex Parisinus bibliothecae nationalis 4709, saeculi XIII
+V = codex Leidensis Vossianus in quarto 84, saeculi xnsxm
+B = codex Bernensis 149 saeculi ΧΠ
+
+R = codex Vaticanus Regius 1428, saeculi XV
+
+ω = horum codicum consensus
+
